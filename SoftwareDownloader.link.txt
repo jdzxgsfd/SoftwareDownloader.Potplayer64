@@ -1,0 +1,3 @@
+Potplayer64
+https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+PotPlayerSetup64.exe
